@@ -20,7 +20,7 @@ html {
 
 body {
     background-color: rgb(227, 210, 173);
-    font-family: century gothic, sans-serif;
+    font-family: 'Century Gothic', sans-serif;
 
 }
 
@@ -96,6 +96,14 @@ aside h2:nth-of-type(odd) {
 }
 
 aside h2:nth-of-type(even) {
+    color: rgb(81, 95, 175);
+}
+
+aside p:nth-of-type(odd) {
+    color: rgb(79, 91, 40);
+}
+
+aside p:nth-of-type(even) {
     color: rgb(81, 95, 175);
 }
 
